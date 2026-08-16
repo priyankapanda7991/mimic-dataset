@@ -1,2 +1,2 @@
 schema_name: 'formula1'
-raw_data_location: 'abfss://formula1@databrickscoursesextdl22.dfs.core.windows.net/landing'
+raw_data_location: 'abfss://formula1@databrickscoursesextdl97.dfs.core.windows.net/landing'
